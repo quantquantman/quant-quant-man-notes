@@ -13,3 +13,8 @@
     * [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing](2.-quant-library/1.-investing-philosophy/a-random-walk-down-wall-street-the-time-tested-strategy-for-successful-investing.md)
   * [2. Quant Finance Theory](2.-quant-library/2.-quant-finance-theory/README.md)
     * [Efficiently Inefficient: How Smart Money Invests and Market Prices Are Determined](2.-quant-library/2.-quant-finance-theory/efficiently-inefficient-how-smart-money-invests-and-market-prices-are-determined.md)
+  * [3. Alpha Strategy](2.-quant-library/3.-alpha-strategy.md)
+  * [3A. Alpha Strategy-Paper](2.-quant-library/3a.-alpha-strategy-paper.md)
+  * [4. Portfolio Management](2.-quant-library/4.-portfolio-management.md)
+  * [5. Algo Trading](2.-quant-library/5.-algo-trading.md)
+  * [6. ML & DL](2.-quant-library/6.-ml-and-dl.md)
