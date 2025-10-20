@@ -1,7 +1,8 @@
 # Table of contents
 
 * [1. Quant Note](README.md)
-  * [1. Investing Philosophy](1.-quant-note/1.-investing-philosophy.md)
+  * [1. Investing Philosophy](1.-quant-note/1.-investing-philosophy/README.md)
+    * [Market Madness: A History of Speculative Bubbles](1.-quant-note/1.-investing-philosophy/market-madness-a-history-of-speculative-bubbles.md)
   * [2. Quant Finance Theory](1.-quant-note/2.-quant-finance-theory.md)
   * [3. Alpha Strategy](1.-quant-note/3.-alpha-strategy.md)
   * [4. Portfolio Management](1.-quant-note/4.-portfolio-management.md)
