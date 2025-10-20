@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [1. Investing Philosophy](README.md)
