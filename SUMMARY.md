@@ -19,3 +19,6 @@
   * [4. Portfolio Management](2.-quant-library/4.-portfolio-management.md)
   * [5. Algo Trading](2.-quant-library/5.-algo-trading.md)
   * [6. ML & DL](2.-quant-library/6.-ml-and-dl.md)
+* [Quant Library](quant-library/README.md)
+  * [3. Alpha Research](quant-library/3.-alpha-research/README.md)
+    * [Finding Alphas](quant-library/3.-alpha-research/finding-alphas.md)
