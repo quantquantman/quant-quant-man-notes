@@ -4,12 +4,15 @@ description: The Time-Tested Strategy for Successful Investing
 
 # A Random Walk Down Wall Street
 
-### Core Thesis
+### Info
 
-#### Summary
+* **Author:** Burton G. Malkiel
+* **Publisher:** W. W. Norton & Company
+* **Publication Year:** 2023 (13th Edition)
 
-* Long‐term **buy-and-hold of low-cost index funds (index funds)** tends to outperform attempts at **stock picking** or **actively managed funds**.
-* Burton G. Malkiel surveys market history, investment theories, and strategies to propose a time-tested approach for individual investors.
+### Summary
+
+"A Random Walk Down Wall Street" popularizes the "random walk hypothesis," which argues that stock market prices are unpredictable, making it nearly impossible to consistently outperform the market. The book advocates for a passive investment strategy, urging investors to build a diversified portfolio of low-cost index funds rather than attempting to time the market or pick individual stocks. Malkiel also explores market history, speculative bubbles, and the behavioral psychology that can lead investors astray.
 
 ***
 
