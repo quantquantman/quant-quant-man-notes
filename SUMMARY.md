@@ -44,3 +44,4 @@
     * [7. Macro Trading](quant-library/2.-quant-trading/7.-macro-trading.md)
     * [8. Derivatives Trading](quant-library/2.-quant-trading/8.-derivatives-trading.md)
   * [3. Math](quant-library/3.-math.md)
+* [Quant Paper](quant-paper.md)
