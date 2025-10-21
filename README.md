@@ -1,2 +1,2 @@
-# 1. Quant Note
+# Quant Note
 
