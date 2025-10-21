@@ -1,5 +1,15 @@
 # Finding Alphas
 
+### Info
+
+* **Author:** Igor Tulchinsky
+* **Publisher:** Wiley
+* **Publication Year:** 2019 (Second Edition)
+
+### Summary
+
+"Finding Alphas" is a practical guide by Igor Tulchinsky and practitioners from WorldQuant, detailing the process of creating quantitative trading strategies known as alphas. The book covers the entire workflow, from data research and model development to backtesting and avoiding common biases. Ultimately, it provides a collection of professional insights and techniques for discovering predictive signals in financial data.
+
 ### 1. The Big Picture: Core Concepts
 
 #### Quick Guide (Chapter Map)
