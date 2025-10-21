@@ -1,4 +1,4 @@
-# Low-Frequency Order Flow
+# Metrics
 
 ### Metrics 總整理
 
@@ -134,3 +134,4 @@
 | Share Trade Imbalance | 買入和賣出交易之間的差異，按總交易數量進行縮放，並針對特定的交易規模類別（例如，中型交易）進行計算。 | $$\text{Share Trade Imbalance} = \frac{\text{Buys} - \text{Sells}}{\text{Buys} + \text{Sells}}$$ |
 
 ***
+

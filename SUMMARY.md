@@ -45,4 +45,5 @@
     * [8. Derivatives Trading](quant-library/2.-quant-trading/8.-derivatives-trading.md)
   * [3. Math](quant-library/3.-math.md)
 * [Quant Paper](quant-paper/README.md)
-  * [Low-Frequency Order Flow](quant-paper/low-frequency-order-flow.md)
+  * [Low-Frequency Order Flow](quant-paper/low-frequency-order-flow/README.md)
+    * [Metrics](quant-paper/low-frequency-order-flow/metrics.md)
