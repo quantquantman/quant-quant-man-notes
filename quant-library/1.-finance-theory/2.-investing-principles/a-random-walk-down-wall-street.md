@@ -4,6 +4,8 @@ description: The Time-Tested Strategy for Successful Investing
 
 # A Random Walk Down Wall Street
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Info
 
 * **Author:** Burton G. Malkiel
